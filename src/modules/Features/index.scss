@@ -1,0 +1,48 @@
+.features {
+  background-color:white;
+  font-family: "Reddit Sans";
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 20px;
+  gap: 1rem;
+
+
+  h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+    font-family: "Reddit Sans";
+    color: #006666;
+  }
+  .ant-tabs-nav-list {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+  }
+
+  .ant-tabs >.ant-tabs-nav .ant-tabs-nav-wrap {
+    width: 100%;
+    justify-content: center;
+  }
+  .ant-tabs-tab {
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .ant-tabs-tab-active {
+    color: #cc5500; // dark orange active tab
+  }
+
+  .ant-tabs-ink-bar {
+    background-color: #cc5500; // dark orange underline
+  }
+
+  .ant-tabs-content {
+    margin-top: 30px; // spacing between tabs and content
+    text-align: center;
+  }
+
+  .ant-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: #006666;
+  }
+}
