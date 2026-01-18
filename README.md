@@ -1,16 +1,34 @@
-# React + Vite
+**SELLIQ = sales + IQ**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+(Sales Intelligence powered by AI)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+SELLIQ is an AI-powered sales intelligence platform that delivers real-time competitor insights, email intelligence, and investor discovery—so teams can sell smarter and faster.
 
-## React Compiler
+**OVERVIEW:**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The SELLIQ Frontend is a modern React-based web application that presents sales intelligence insights through a clean, responsive, and data-driven UI. It is designed to handle complex datasets while maintaining clarity, performance, and ease of use.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The application focuses on intuitive navigation, clear visualizations, and seamless interaction with backend services to support workflows around competitor analysis, email insights, and investor intelligence.
+
+**Frontend Highlights:**
+
+- Built with React 19 and React Router for scalable, client-side navigation
+
+- UI components developed using Ant Design for consistency and rapid development
+
+- Interactive charts and analytics powered by Recharts
+
+- API integration handled via Axios
+
+- Markdown rendering support using React Markdown
+
+- Animations and micro-interactions implemented with Lottie
+  
+- Styling managed using SCSS/SASS for modular and maintainable stylesheets
+
+
+**WORKING DEMO:**
+
+https://drive.google.com/file/d/18KQECnT1jAtjx_TXquSi6fSI5ZZ9AH_5/view?usp=sharing
